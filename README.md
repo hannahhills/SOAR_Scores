@@ -10,8 +10,7 @@ SOAR is a method of tracking student behavior during class time. SOAR stands for
 
 **How to Use**
 1. View as a PDF
-2. Online Access
-- [Click on this link and request permission to view](https://app.powerbi.com/links/I5sese651J?ctid=343c75bb-69dd-43c0-a506-8f9fc9a416bc&pbi_source=linkShare)
+2. Online Access [Click on this link and request permission to view](https://app.powerbi.com/links/I5sese651J?ctid=343c75bb-69dd-43c0-a506-8f9fc9a416bc&pbi_source=linkShare)
 
 **Purpose**
 This dashboard is designed to help educators:
